@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "name": "Edificio Comercial Alfa",
+    "building_type": "predial",
+    "floors": 6,
+    "technical_room": "Sala tecnica no 2o pavimento",
+    "status": "Em planejamento",
+    "standards": ["NBR 14565", "NBR 16415"],
+    "work_points": 96,
+    "rack_count": 2,
+    "cable_category": "Cat6",
+    "fiber_backbone": true,
+    "pathways": ["Eletrocalhas", "Eletrodutos", "Racks de Telecomunicacoes"],
+    "notes": "Backbone vertical por fibra optica e distribuicao horizontal por par trancado.",
+    "created_at": "2026-05-19 09:00:00"
+  }
+]
